@@ -1,0 +1,34 @@
+_repo: Winter-Evening-Tales_16222
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barr, Amelia E.
+    alias: Barr, Amelia Edith Huddleston
+    birthdate: 1831
+    deathdate: 1919
+    gutenberg_agent_id: '2199'
+    url: http://www.gutenberg.org/2009/agents/2199
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Edith_Huddleston_Barr
+description: ''
+gutenberg_issued: '2005-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Christian fiction'
+tableOfContents: '"Cash," a Problem of Profit and Loss -- Franz Müller''s Wife --
+  The Voice at Midnight -- Six and Half-a-Dozen -- The Story of David Morrison --
+  Tom Duffan''s Daughter -- The Harvest of the Wind -- The Seven Wise Men of Preston
+  -- Margaret Sinclair''s Silent Money -- Just What He Deserved -- An Only Offer --
+  Two Fair Deceivers -- The Two Mr. Smiths -- The Story of Mary Neil -- The Heiress
+  of Kurston Chace -- Only This Once -- Petralto''s Love Story.'
+title: Winter Evening Tales
+url: http://www.gutenberg.org/ebooks/16222
